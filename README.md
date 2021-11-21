@@ -4,6 +4,7 @@
 ### This project is a Price Predictor for houses in boston city. Its based on the Boston dataset of sklearn. The web app is made using streamlit.
 
 <p>  User can change the input parameters by changing the slidebars in the sidemenu. The corresponding predicted price will be shown accordingly.</p>
+
 <p> The input parameters are:-
   
   <b>crim</b> : per capita crime rate by town.
@@ -32,5 +33,5 @@
 
   <b>lstat</b> : lower status of the population (percent).
 
-  <b>medv</b> : median value of owner-occupied homes in \$1000s.
+  <b>medv</b> : median value of owner-occupied homes in \$1000s.</p>
 
