@@ -5,30 +5,32 @@
 
 <p>  User can change the input parameters by changing the slidebars in the sidemenu. The corresponding predicted price will be shown accordingly.</p>
 <p> The input parameters are:-
+  
   <b>crim</b> : per capita crime rate by town.
-zn : proportion of residential land zoned for lots over 25,000 sq.ft.
+  
+  <b>zn</b> : proportion of residential land zoned for lots over 25,000 sq.ft.
 
-indus : proportion of non-retail business acres per town.
+  <b>indus</b> : proportion of non-retail business acres per town.
 
-chas : Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
+  <b>chas</b> : Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
 
-nox : nitrogen oxides concentration (parts per 10 million).
+  <b>nox</b> : nitrogen oxides concentration (parts per 10 million).
 
-rm : average number of rooms per dwelling.
+  <b>rm</b> : average number of rooms per dwelling.
 
-age : proportion of owner-occupied units built prior to 1940.
+  <b>age</b> : proportion of owner-occupied units built prior to 1940.
 
-dis : weighted mean of distances to five Boston employment centres.
+  <b>dis</b> : weighted mean of distances to five Boston employment centres.
 
-rad : index of accessibility to radial highways.
+  <b>rad</b> : index of accessibility to radial highways.
 
-tax : full-value property-tax rate per \$10,000.
+  <b>tax</b> : full-value property-tax rate per \$10,000.
 
-ptratio : pupil-teacher ratio by town.
+  <b>ptratio</b> : pupil-teacher ratio by town.
 
-black : 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
+  <b>black</b> : 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
 
-lstat : lower status of the population (percent).
+  <b>lstat</b> : lower status of the population (percent).
 
-medv : median value of owner-occupied homes in \$1000s.
+  <b>medv</b> : median value of owner-occupied homes in \$1000s.
 
