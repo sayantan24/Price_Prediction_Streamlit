@@ -37,4 +37,19 @@
   <b>lstat</b> : lower status of the population (percent).
 
   <b>medv</b> : median value of owner-occupied homes in \$1000s.</p>
+  
+## Screenshots of working project
+
+<table style="width:100%">
+  <tr>
+    <th><img src="images/Screenshot6.png"/></th>
+    <th><img src="images/Screenshot7.png"/></th>
+  </tr>
+  <tr>
+    <th><img src="images/Screenshot8.png"/></th>
+  </tr>
+  </table>
+  
+ ## Flowchart of methodology
+ <img src="images/flowchart_pricepredictor.png"/>
 
